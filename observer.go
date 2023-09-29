@@ -27,7 +27,7 @@ package main
 //
 //func (rs *RegisterShop) Attach(observer Observer) {
 //	rs.observers = append(rs.observers, observer)
-//}
+//
 //
 //// notify
 //func (rs *RegisterShop) NotifyAviability() {
